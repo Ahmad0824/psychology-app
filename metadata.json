@@ -1,0 +1,6 @@
+{
+  "name": "PsychoEdu",
+  "description": "Empathetic psychoeducational study assistant and personal thought organizer covering CBT, DBT, and general psychology frameworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
